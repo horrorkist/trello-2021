@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/trello-2021/static/js/main.71bfd0e3.chunk.js",
+    "main.js.map": "/trello-2021/static/js/main.71bfd0e3.chunk.js.map",
+    "runtime-main.js": "/trello-2021/static/js/runtime-main.ddfe9f69.js",
+    "runtime-main.js.map": "/trello-2021/static/js/runtime-main.ddfe9f69.js.map",
+    "static/js/2.879a5706.chunk.js": "/trello-2021/static/js/2.879a5706.chunk.js",
+    "static/js/2.879a5706.chunk.js.map": "/trello-2021/static/js/2.879a5706.chunk.js.map",
+    "index.html": "/trello-2021/index.html",
+    "static/js/2.879a5706.chunk.js.LICENSE.txt": "/trello-2021/static/js/2.879a5706.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddfe9f69.js",
+    "static/js/2.879a5706.chunk.js",
+    "static/js/main.71bfd0e3.chunk.js"
+  ]
+}
